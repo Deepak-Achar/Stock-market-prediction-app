@@ -1,4 +1,4 @@
-**Stock Price Prediction Application - README**
+**Stock Price Prediction Application**
 
 **Overview**
 This is a Streamlit-based Stock Price Prediction Application that allows users to:
