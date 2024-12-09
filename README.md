@@ -10,6 +10,7 @@ View real-time stock-related news.
 Fetch financial statements such as balance sheets, income statements, and cash flow statements.
 
 **Features**
+
 **1. Data Visualization**
 Display stock data with interactive visualizations for various technical indicators:
 Bollinger Bands (BB)
